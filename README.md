@@ -7,7 +7,6 @@ Este plan tiene como objetivo facilitar la adopción de nuevas tecnologías dent
 
 ---
 
-
 ## 1. Introducción 
 Este documento constituye el **Plan General de Gestión del Cambio** diseñado para acompañar la implementación de nuevas plataformas tecnológicas, sistemas de software o reingenierías de procesos dentro de la organización. 
 
@@ -39,6 +38,7 @@ Antes de iniciar cualquier proceso de transición, se diagnostican las barreras 
 * **Desconfianza en la Estabilidad de la Herramienta:** Preferencia por métodos analógicos o legacy tradicionales ("siempre se ha hecho así y funciona").
 * **Fricción por Políticas de Dispositivos (BYOD / Corporate):** Incomodidad en caso de requerir el uso de smartphones personales o nuevas restricciones de acceso en equipos corporativos.
 
+Falta de Compromiso Organizacional: Desinterés o poca participación de algunos integrantes del proyecto debido a la percepción de que el cambio no aporta beneficios inmediatos o no está alineado con sus necesidades y objetivos laborales.
 ---
 
 ## 4. Estrategia de Gestión del Cambio (Modelo ADKAR)
@@ -125,8 +125,22 @@ Para cuantificar la efectividad de la transición, se medirán los siguientes in
 4. **Tasa de Regresión:** Intentos registrados de evadir la plataforma oficial para usar métodos tradicionales (Meta: 0% post Hard Stop).
 
 ---
+9. Plan de Comunicación Interna
 
+La comunicación estratégica permitirá reducir rumores, aumentar la confianza y mantener alineados a todos los participantes durante el proceso de implementación tecnológica.
 
-## 9. Conclusión de la Metodología
+Objetivos de Comunicación
+Informar de manera clara y transparente el avance del proyecto.
+Reducir la incertidumbre y rumores internos.
+Mantener el compromiso organizacional.
+Promover la participación activa de los usuarios.
+Estrategias de Comunicación
+Comunicados Oficiales: Envío periódico de anuncios institucionales sobre avances, cambios y fechas clave del proyecto.
+Canales de Retroalimentación: Habilitación de formularios, correos o chats internos para resolver dudas y recibir sugerencias.
+Reuniones de Seguimiento: Sesiones breves semanales entre líderes y equipos operativos para monitorear inquietudes.
+Difusión de Casos de Éxito: Compartir testimonios de usuarios que hayan mejorado su productividad gracias al nuevo sistema.
+Paneles Visuales y KPIs Públicos: Mostrar métricas de adopción y progreso para generar sentido de avance colectivo.
+
+## 10. Conclusión de la Metodología
 
 Una implementación tecnológica exitosa no concluye cuando el código pasa a producción. La verdadera estabilidad del software radica en la apropiación que los usuarios hagan de él. Al estructurar la transición humana con fases lógicas (ADKAR), herramientas ágiles de aprendizaje y puntos claros de corte (Hard Stop), la organización transforma un riesgo cultural en un caso de éxito operativo.
